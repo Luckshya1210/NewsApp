@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "totalResults": 16,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Carin Smith",
+            "title": "SAA concerns about Mango sale 'mere housekeeping in nature', says rescue practitioner",
+            "description": "Concerns that SAA has about the sale process of its subsidiary Mango are not material at all, according to the low-cost airline's business rescue practitioner.",
+            "url": "https://www.news24.com/fin24/Companies/saa-concerns-about-mango-sale-mere-housekeeping-in-nature-says-rescue-practitioner-20221005",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2703/45731842073f4a9b8e1cb8c2bc076b9d.jpg",
+            "publishedAt": "2022-10-05T18:39:47+00:00",
+            "content": "<ul><li>SAA has raised concerns with its shareholder, the Department of Public Enterprises, about the sale of Mango.</li><li>But the low-cost airline's rescue practitioner says in his latest report t… [+3052 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "Founded by Google's former head of ads, Neeva brings its ad-free search engine to Europe",
+            "description": "Neeva is an ad-free search engine co-founded by Sridhar Ramaswamy, who formerly spearheaded Google's advertising business.",
+            "url": "https://techcrunch.com/2022/10/05/neeva-brings-its-ad-free-search-engine-to-europe/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-530158676.jpg?resize=1200,801",
+            "publishedAt": "2022-10-05T17:35:03Z",
+            "content": "Neeva, an ad-free search engine launched last year by a former engineer and executive best known for spearheading Google’s advertising tech business, is about to land in Europe.\r\nThe Mountain View, C… [+16423 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "OPEC+ agrees deep cuts to oil production despite U.S. pressure",
+            "description": "OPEC+ agreed its deepest cuts to oil production since the 2020 COVID pandemic at a Vienna meeting on Wednesday, curbing supply in an already tight market despite <a href=\"/business/energy/us-pushing-opec-not-cut-oil-output-source-2022-10-04/\">pressure from th…",
+            "url": "https://www.reuters.com/business/energy/opec-heads-deep-supply-cuts-clash-with-us-2022-10-04/",
+            "urlToImage": "https://www.reuters.com/resizer/9_JXb5vEg1WX1yEcVuE9k2UYAFw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U5ILHLZPBNPC5D5LWKQVJWSPYI.jpg",
+            "publishedAt": "2022-10-05T15:08:15Z",
+            "content": "VIENNA/LONDON, Oct 5 (Reuters) - OPEC+ agreed its deepest cuts to oil production since the 2020 COVID pandemic at a Vienna meeting on Wednesday, curbing supply in an already tight market despite pres… [+3404 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": null,
+            "title": "About 9,000 P.E.I. households, businesses without power 12 days after Fiona | CBC News",
+            "description": "About 9,000 Maritime Electric customers still don't have power on Wednesday morning —12 days after post-tropical storm Fiona hit P.E.I.",
+            "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-fiona-power-schools-storm-1.6606556",
+            "urlToImage": "https://i.cbc.ca/1.6606560.1664962922!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/crews-replace-power-poles-charlottetown.jpg",
+            "publishedAt": "2022-10-05T14:57:03+00:00",
+            "content": "About 9,000 Maritime Electric customers still don't have power on Wednesday morning 12 days after post-tropical storm Fiona hit P.E.I. \r\nThe company has an online list that shows different areas on t… [+5484 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Tom Burton",
+            "title": "Optus breach: Business, cybersecurity experts call for urgent rules to keep products safe",
+            "description": "Business and cyber experts say regulations are needed so boards understand their obligations to ensure products and services are secure.",
+            "url": "http://www.afr.com/technology/business-cyber-experts-call-for-urgent-rules-to-keep-products-safe-20221003-p5bmw5",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.7927%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_526%2C$y_346/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f1bc8fa4650e6598f19ba3e899b685a4a46114cf",
+            "publishedAt": "2022-10-05T07:39:07Z",
+            "content": "Gilbert + Tobin digital regulation partner Lesley Sutton said there needed to be more conformity of retention laws.\r\nOne of the issues that organisations face is theres different time frames for diff… [+4132 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Karen Weise",
+            "title": "Amazon freezes corporate hiring in its retail business",
+            "description": "Its stores business, which covers Amazon’s physical and online retail business and its logistics operations, had more than 10,000 openings.",
+            "url": "http://www.afr.com/companies/retail/amazon-freezes-corporate-hiring-in-its-retail-business-20221005-p5bnfq",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/c062d69dca465796333117dfe85efd8e75565cf1",
+            "publishedAt": "2022-10-05T05:09:12Z",
+            "content": "On Tuesday, the Labor Department released data showing that while many parts of the job market remained strong, employers were slowing the number of roles they were looking to fill. About 10.1 millio… [+2975 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOSH BOAK",
+            "title": "Biden surveys hurricane-ravaged Fort Myers by helicopter",
+            "description": "FORT MYERS, Florida (AP) — President Joe Biden toured hurricane-ravaged areas of Florida on Wednesday, surveying storm damage by helicopter as he pledged that federal, state and local governments will work together to help rebuild homes, businesses and lives …",
+            "url": "https://apnews.com/b7cc29478fc9618e0b2b30106e5c86f4",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/552edb47c1114818a6a53e59dae9cb35/3000.jpeg",
+            "publishedAt": "2022-10-05T04:06:36Z",
+            "content": "FORT MYERS, Florida (AP) — President Joe Biden toured hurricane-ravaged areas of Florida on Wednesday, surveying storm damage by helicopter as he pledged that federal, state and local governments wil… [+4887 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Rachel Pupazzoni",
+            "title": "The Aussie dollar is dropping against the US currency, but it’s not all bad news",
+            "description": "A higher US dollar isn't great news for global trade, but some Australian businesses are able to benefit and travellers have reason to smile as well.",
+            "url": "http://www.abc.net.au/news/2022-10-05/usd-aud-exchange-rate/101492848",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/924cfffd4ae716aa2028dd6787fe5d10?impolicy=wcms_crop_resize&cropH=1662&cropW=2955&xPos=0&yPos=0&width=862&height=485",
+            "publishedAt": "2022-10-04T18:54:48Z",
+            "content": "Paul O'Brien's costs are rising and it's not just supply chain issues, shipping delays and increasing inflation that we're all becoming accustomed to that is the cause.\r\nKey points:\r\n<ul><li>The US d… [+10318 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Marris Adikwu",
+            "title": "Climate risks are a major business threat – here’s how AI can help",
+            "description": "The effects of climate change are costing businesses billions when it comes to disruptions to supply chains and operations. But AI can help.",
+            "url": "http://thenextweb.com/news/climate-risks-major-business-threat-how-ai-can-help",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2Fibmg.jpg&signature=382d5c33ad2833887d787a8a8eec16ae",
+            "publishedAt": "2022-10-04T10:26:22Z",
+            "content": "Content provided by IBM and TNW. \r\nWhen Hurricane Harvey struck southeast Texas in 2017, it caused $125 billion in economic damages. A recent assessment of local businesses in the area found that 90%… [+7258 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Marc Bettinelli, Alain Mbouche et Adrien Sahli",
+            "title": "Vidéo. « Rap Business » : pourquoi les rappeurs d’origine congolaise dominent le rap français",
+            "description": "Vidéo - Niska, Gims, Damso, Ninho, Koba LaD…, près d’un quart des rappeurs figurant dans le top des albums vendus en 2021 ont un lien avec le Congo. Et ce n’est pas un hasard.",
+            "url": "https://www.lemonde.fr/musiques/video/2022/09/25/rap-business-pourquoi-les-rappeurs-d-origine-congolaise-dominent-le-rap-francais_6143114_1654986.html",
+            "urlToImage": "https://img.lemde.fr/2022/09/21/0/208/1569/1046/1440/960/60/0/d8388a2_1663769989854-thumb-rap-business-ep3-sirius-copie.png",
+            "publishedAt": "2022-09-25T12:00:15Z",
+            "content": "Il y a une évidence souvent entendue : le rap français sest fortement inspiré des Etats-Unis. Cest vrai, mais ce nest pas tout. Moins connues que New York ou Los Angeles, deux autres villes sont pour… [+1476 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Powell's inflation miscalculation raises stakes on rate shift",
+            "description": "The Federal Reserve chair needs to convince markets he means business when he addresses the landmark conference of economists on Friday.",
+            "url": "https://www.politico.com/news/2022/08/25/powell-wyoming-fed-inflation-00053508",
+            "urlToImage": "https://static.politico.com/9a/76/c795f4214563a29736733fc0e086/federal-reserve-powell-01404.jpg",
+            "publishedAt": "2022-08-25T08:30:00+00:00",
+            "content": "Now, as he returns to Jackson Hole in Wyoming, Powell needs to convince markets he means business when he addresses the landmark conference of economists on Friday. If he cant, it could undermine the… [+4797 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Financial Post",
+            "description": "Read through unique Editorials and Business &amp; Finance columns from our top editors covering current events.",
+            "url": "http://business.financialpost.com/category/opinion/",
+            "urlToImage": "https://storage.googleapis.com/pmd-stage-northamerica-northeast1-dcs-static-files/9.4.3/websites/images/postmedia-image-fallback.png",
+            "publishedAt": "2022-02-20T02:07:22.9503753Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2022 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Financial Post",
+            "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+            "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+            "urlToImage": "https://storage.googleapis.com/pmd-stage-northamerica-northeast1-dcs-static-files/9.4.3/websites/images/postmedia-image-fallback.png",
+            "publishedAt": "2022-02-20T00:52:24.7949372Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2022 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "‘Money is no object’: Ghislaine Maxwell trial shines light on class divide",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/0b9d93da-1687-4eb1-bd53-0a84a1b40dff",
+            "urlToImage": null,
+            "publishedAt": "2021-12-14T06:22:29.1165883Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Need relief from the stress of screen time? There’s an app for that",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/221cf7c4-56e7-4c7e-b6c0-cc3737da0330",
+            "urlToImage": null,
+            "publishedAt": "2021-12-14T06:22:27.4295096Z",
+            "content": "Let our global subject matter experts broaden your perspective with timely insights and opinions you\r\ncant find anywhere else."
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "News",
+            "description": "Latest breaking business news &amp; headlines. Stay in touch with the latest happenings in Local and International organizations and financial sector.",
+            "url": "http://business.financialpost.com/category/news/",
+            "urlToImage": null,
+            "publishedAt": "2020-07-09T18:37:17.5638279Z",
+            "content": "Visit the Postmedia Brands page\r\n365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n© 2020 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmis… [+41 chars]"
+        }
+    ]
+}
