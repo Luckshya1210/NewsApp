@@ -1,7 +1,7 @@
 import React from 'react'
 
 const NewsItem = (props) => {
-    // pags=2;
+    // pages=2;
 
     let { title, description, imageUrl, newsUrl, author, date, source } = props;
     return (
@@ -11,7 +11,8 @@ const NewsItem = (props) => {
                     display: "flex",
                     justifyContent: "flex-end",
                     position: 'absolute',
-                    right: '0'
+                    right: '0',
+                    borderRadius:'16px'
                 }}>
 
                     <span className=" badge rounded-pill bg-danger" >

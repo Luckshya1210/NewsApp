@@ -1,19 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { Component, useState } from 'react'
-import Navbar from './components/Navbar';
-// import { useState } from 'react';
-import News from './components/News';
-import NewsItem from './components/NewsItem';
+import Navbar from './components/Navbar'; 
+import News from './components/News'; 
 import LoadingBar from 'react-top-loading-bar'
 import {
   BrowserRouter as Router,
   Routes,
   Route,
-  Link
+  
 } from "react-router-dom";
-const App = () => {
-  //class use this c='luck';
+const App = () => { 
   const pageSize = 15;
   const [progress, setprogress] = useState(0)
 
